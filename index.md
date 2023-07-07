@@ -1,3 +1,10 @@
 ---
-layout: home
+layout: default
 ---
+{% include navheader.html %}
+
+{% include portfolio_grid.html %}
+{% include timeline.html %}
+{% include team.html %}
+{% include clients.html %}
+{% include contact.html %}

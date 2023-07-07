@@ -9,33 +9,15 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
-  nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 fr-FR:
   nav:
-    - title: "About"
-      section: about
-    - title: "Portfolio"
+    - title: "Pourquoi nous?"
       section: portfolio
     - title: "L'histoire"
       section: timeline
-    - title: "L'équipe"
+    - title: "Notre équipe"
       section: team
-    - title: "Nos partenaires"
+    - title: "Partenaires"
       section: clients
-    - title: "Contact"
+    - title: "Nous contacter"
       section: contact
