@@ -39,7 +39,9 @@ fr-FR:
 
   portfolio:
     title: "Pourquoi nous?"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Clermont-Ferrand se trouve au centre de la France. Cette ville, de 140.000 habitants, regorge d'histoire, de traditions et spécialités culinaires. <Br> 
+    Même si notre charmante ville se trouve dans la diagonale du vide, notre ville accueille nombreux festivals et les alentours proposent diverses activités. <Br>
+    Nous sommes fier de vous présenter notre ville."
     section: portfolio
     closebutton: "Fermer"
 
@@ -71,8 +73,7 @@ fr-FR:
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: 
 
   team:
     title: "L'équipe"
