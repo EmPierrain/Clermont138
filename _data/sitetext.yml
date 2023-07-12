@@ -52,26 +52,61 @@ fr-FR:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Les Arvernes"
+        year: "218 av. J.-C"
+        desc: "Lorem ipsum"
+        image:
+        alt:
+      - title: "Vercingétorix"
+        year: "80 av. J.-C"
+        desc: "Lorem ipsum"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "L'invasion romaine"
+        year: "Y'a longtemps"
+        desc: "Lorem ipsum"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "???"
+        year: "???"
+        desc: "???"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      - title: "???"
+        year: "???"
+        desc: "???"        
+        image: 
+        alt: 
+      - title: "La Révolution"
+        year: "???"
+        desc: "???"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "???"
+        year: "???"
+        desc: "???"        
+        image: 
+        alt: 
+      - title: "???"
+        year: "???"
+        desc: "???"        
+        image: 
+        alt: 
+      - title: "???"
+        year: "???"
+        desc: "???"        
+        image: 
+        alt: 
+      - title: "Clermont 103"
+        year: "Juin 1991"
+        desc: "Dernier anniversaire à Clermont Ferrand"        
+        image: 
+        alt: 
+      - title: "Clermont 138!"
+        year: "Juillet 2026"
+        desc: "Tu veux un déssin frère ?"        
+        image: 
+        alt: 
         # you can enforce the alignment
     end: 
 
