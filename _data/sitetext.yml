@@ -154,6 +154,33 @@ fr-FR:
             icon: fab fa-facebook-f
       - name: "???"
         pronom: "il/elle"
+        role: "Secrétaire"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://instagram.com
+            icon: fab fa-instagram
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "???"
+        pronom: "il/elle"
+        role: "Partenariat"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://instagram.com
+            icon: fab fa-instagram
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "???"
+        pronom: "il/elle"
+        role: "Pôle communication"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://instagram.com
+            icon: fab fa-instagram
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+      - name: "???"
+        pronom: "il/elle"
         role: "Pôle communication"
         image: assets/img/team/500x500.jpg
         social:
