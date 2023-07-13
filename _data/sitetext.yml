@@ -52,36 +52,16 @@ fr-FR:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Les Arvernes"
-        year: "218 av. J.-C"
-        desc: "Lorem ipsum"
-        image:
-        alt:
       - title: "Vercingétorix"
         year: "80 av. J.-C"
         desc: "Lorem ipsum"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "L'invasion romaine"
-        year: "Y'a longtemps"
-        desc: "Lorem ipsum"
-        image: assets/img/timeline/2.jpg
+        image: 
         alt:
       - title: "???"
         year: "???"
         desc: "???"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "???"
-        year: "???"
-        desc: "???"        
         image: 
         alt: 
-      - title: "La Révolution"
-        year: "???"
-        desc: "???"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
       - title: "???"
         year: "???"
         desc: "???"        
@@ -92,14 +72,24 @@ fr-FR:
         desc: "???"        
         image: 
         alt: 
-      - title: "???"
-        year: "???"
+      - title: "Fin de la construction de la cathédrale"
+        year: "1902"
+        desc: "Commencé en 1248, la construction a été tellement longue qu'elle est maintenant sale ce qui lui donne cette couleur noir"        
+        image: 
+        alt: 
+      - title: "Ici commence l'Auvergne"
+        year: "1942"
         desc: "???"        
         image: 
         alt: 
       - title: "Clermont 103"
         year: "Juin 1991"
         desc: "Dernier anniversaire à Clermont Ferrand"        
+        image: 
+        alt: 
+      - title: "Ouverture de Vulcania"
+        year: "20 février 2002"
+        desc: "???"        
         image: 
         alt: 
       - title: "Clermont 138!"
