@@ -54,7 +54,7 @@ fr-FR:
     events:
       - title: "Vercingétorix"
         year: "80 av. J.-C"
-        desc: "Lorem ipsum"
+        desc: "???"
         image: 
         alt:
       - title: "???"
@@ -67,9 +67,9 @@ fr-FR:
         desc: "???"        
         image: 
         alt: 
-      - title: "???"
-        year: "???"
-        desc: "???"        
+      - title: "Création de Michelin"
+        year: "28 mai 1889"
+        desc: "C'est grâce à eux qu'on a un super tram"        
         image: 
         alt: 
       - title: "Fin de la construction de la cathédrale"
@@ -97,7 +97,6 @@ fr-FR:
         desc: "Tu veux un dessin frère ?"        
         image: 
         alt: 
-        # you can enforce the alignment
     end: 
 
   team:
