@@ -21,9 +21,9 @@ title      : Clermont 138
 email      : clermont138@gmail.com #this is also the email contact forms will go to
 description: "++++[++++>---<]>.+[--->+<]>.-------.+++++++++++++.-----.++.-.++++++.[---->+<]>+++.[-->+++<]>+.++.+++++.[-->+<]>+++++."
 author     : Emmanuel PIERRAIN
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\clients\Blanson.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "fr-FR" # See available languages in _data/sitetext.yml
 
