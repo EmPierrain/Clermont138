@@ -52,18 +52,23 @@ fr-FR:
     # left is the default
     #start_align: "left"
     events:
+      - title: "Chaine du Puy de Dôme "
+        year: "10.000 av. J.-C"
+        desc: "Y rentre au patrimoine mondiale de l'unesco en 2018"
+        image: 
+        alt:
       - title: "Vercingétorix"
         year: "80 av. J.-C"
         desc: "???"
         image: 
         alt:
-      - title: "???"
-        year: "???"
-        desc: "???"
+      - title: "Élection du pape Urbain II"
+        year: "1088"
+        desc: "Il est à l'origine de la première croisade en lançant, le 27 novembre 1095, l'appel de Clermont qui en sera le déclencheur"
         image: 
         alt: 
-      - title: "???"
-        year: "???"
+      - title: "Naissance de Blaise Pascal"
+        year: "19 juin 1623"
         desc: "???"        
         image: 
         alt: 
@@ -82,6 +87,11 @@ fr-FR:
         desc: "???"        
         image: 
         alt: 
+      - title: "Rafle des étudiants Strasbourgeois"
+        year: "25 novembre 1943"
+        desc: "???"        
+        image: 
+        alt: 
       - title: "Clermont 103"
         year: "Juin 1991"
         desc: "Dernier anniversaire à Clermont Ferrand"        
@@ -92,12 +102,7 @@ fr-FR:
         desc: "???"        
         image: 
         alt: 
-      - title: "Clermont 138!"
-        year: "Juillet 2026"
-        desc: "Tu veux un dessin frère ?"        
-        image: 
-        alt: 
-    end: 
+    end: "Juillet 2026  Clermont 138"
 
   team:
     title: "L'équipe"
