@@ -54,52 +54,52 @@ fr-FR:
     events:
       - title: "Chaine du Puy de Dôme "
         year: "10.000 av. J.-C"
-        desc: "Y rentre au patrimoine mondiale de l'unesco en 2018"
+        desc: "Volcan emblématique d'Auvergne, il fait partie de la chaine des Puys qui comprend plus de 80 volcans. S'élevant à 1465 mètres d'altitude, il est classé rentre au patrimoine mondiale de l'UNESCO depuis 2018"
         image: assets/img/timeline/puy.jpg
         alt:
       - title: "Vercingétorix"
         year: "80 av. J.-C"
-        desc: "???"
+        desc: "Chef gaulois qui a dirigé la résistance contre Jules César au 1er siècle avant J.-C. Il a uni les tribus gauloises et a mené une révolte majeure contre l'expansion romaine, défendant avec détermination la culture et l'indépendance gauloises."
         image: assets/img/timeline/vercingetorix.jpg
         alt:
       - title: "Élection du pape Urbain II"
         year: "1088"
-        desc: "Il est à l'origine de la première croisade en lançant, le 27 novembre 1095, l'appel de Clermont qui en sera le déclencheur"
+        desc: "Né Odon de Lagery en France, a été élu pape en 1088. Il est connu pour avoir lancé la première croisade en 1095. Son discours lors du Concile de Clermont a marqué le début d'une série de croisades qui ont eu un impact profond sur l'histoire médiévale."
         image: assets/img/timeline/urbain.jpg
         alt: 
       - title: "Naissance de Blaise Pascal"
         year: "19 juin 1623"
-        desc: "???"        
+        desc: "Mathématicien, physicien et philosophe du XVIIe siècle. Il est connu pour ses travaux en calcul infinitésimal, notamment la création de la machine à calculer mécanique appelée la Pascaline. Il a également contribué à la philosophie, en développant des arguments sur la condition humaine et la foi religieuse, notamment avec son célèbre ouvrage \"Les Pensées\"."        
         image: assets/img/timeline/blaisepascal.jpg
         alt: 
       - title: "Création de Michelin"
         year: "28 mai 1889"
-        desc: "C'est grâce à eux qu'on a un super tram"        
+        desc: "1er employeur Clermontois, cette entreprise est spécialisée dans la fabrication de pneumatiques. En plus de ses activités dans le domaine des pneumatiques, Michelin est également impliqué dans d'autres secteurs tels que les guides gastronomiques et touristiques, ce qui renforce sa réputation d'excellence et de savoir-faire."        
         image: assets/img/timeline/michelin.jpg
         alt: 
       - title: "Fin de la construction de la cathédrale"
         year: "1902"
-        desc: "Commencé en 1248, la construction a été tellement longue qu'elle est maintenant sale ce qui lui donne cette couleur noir"        
+        desc: "Connue sous le nom de Cathédrale Notre-Dame-de-l'Assomption, c'est l'un des joyaux architecturaux de la ville. Sa construction a débuté au XIIIe siècle et elle est principalement construite en pierre volcanique, donnant à l'édifice une apparence sombre et imposante."        
         image: assets/img/timeline/cathedrale.jpg
         alt: 
       - title: "Ici commence l'Auvergne"
         year: "1942"
-        desc: "???"        
+        desc: "//TODO//"        
         image: assets/img/timeline/ici.jpg
         alt: 
       - title: "Rafle des étudiants Strasbourgeois"
         year: "25 novembre 1943"
-        desc: "???"        
+        desc: "Opération menée par les autorités allemandes et la police française. Au cours de cette opération, plus de 1 200 Juifs, hommes, femmes et enfants, furent arrêtés et déportés vers les camps de concentration nazis. Cette rafle marqua l'un des sombres épisodes de la collaboration et de la persécution des Juifs en France pendant l'occupation allemande."        
         image: assets/img/timeline/strasbourg.jpg
         alt: 
       - title: "Clermont 103"
         year: "Juin 1991"
-        desc: "Dernier anniversaire à Clermont Ferrand"        
+        desc: "Dernier anniversaire à Clermont Ferrand //TODO//"        
         image: 
         alt: 
       - title: "Ouverture de Vulcania"
         year: "20 février 2002"
-        desc: "???"        
+        desc: "Parc d'attractions proposant une expérience immersive et éducative autour des volcans et des phénomènes géologiques, avec des simulations interactives et des expositions."        
         image: assets/img/timeline/vulcania.jpg
         alt: 
     end: "Juillet 2026  Clermont 138"
