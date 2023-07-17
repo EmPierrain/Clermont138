@@ -53,7 +53,7 @@ Plat traditionnel français composé de viande de porc salée et accompagné de 
 
 Ce plat est préparé avec des ingrédients simples et facilement accessibles. Le pâté de pommes de terre se compose traditionnellement de fines tranches de pommes de terre cuites à la perfection, intercalées avec des couches de viande, généralement du porc haché ou du bœuf braisé, ainsi que des oignons et des herbes aromatiques. Ces différentes couches sont souvent liées avec une sauce crémeuse ou un bouillon savoureux. Une fois assemblé, le pâté de pommes de terre est cuit au four jusqu'à obtenir une surface dorée et croustillante, tandis que l'intérieur devient tendre et fondant. Il est généralement servi chaud en tranches généreuses et peut être accompagné d'une salade verte ou de légumes pour un repas complet et satisfaisant. 
 
-### Les tripoux
+### Les tripoux
 
 ![Tripoux](assets/img/portfolio/specialites/Tripoux.jpg)
 
