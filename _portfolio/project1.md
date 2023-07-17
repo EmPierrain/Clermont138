@@ -1,7 +1,7 @@
 ---
 title: Nos spécialités
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+subtitle: Parfait pour le summer body
+image: 
 alt: 
 
 caption:
@@ -9,10 +9,10 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/Truffade.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+L'auvergne est connue pour sa **BONNE BOUFFE**. Ni trop grasse, ni trop copieuse. Voici selon nous les spécialités les plus représentatives de notre région:
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+### La truffade
 
+![Trufade](assets/img/portfolio/Truffade.jpg)
+
+La truffade est **LE** plat traditionnel de la cuisine auvergnate. C'est un plat simple mais délicieux, principalement composé de pommes de terre, de fromage et d'ail. Les pommes de terre sont coupées en rondelles épaisses et cuites lentement dans une poêle avec de l'ail et du beurre. Une fois les pommes de terre tendres et légèrement dorées, on ajoute généreusement du Cantal coupé en morceaux. Le fromage fond lentement et enrobe les pommes de terre, créant une texture fondante et un goût savoureux. La truffade est souvent servie avec de la charcuterie, comme des saucisses ou du jambon, pour compléter le repas.
