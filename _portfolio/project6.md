@@ -1,13 +1,13 @@
 ---
 title: Nos activités
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+image: 
 alt: 
 
 caption:
   title: Nos activités
   subtitle: 
-  thumbnail: assets/img/portfolio/ASM.jpg
+  thumbnail: assets/img/portfolio/activites/ASM.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

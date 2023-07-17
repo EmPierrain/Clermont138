@@ -1,13 +1,13 @@
 ---
 title: Nos Alcools
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+image: 
+alt: 
 
 caption:
   title: Nos Alcools
   subtitle: 
-  thumbnail: assets/img/portfolio/Verveine.jpg
+  thumbnail: assets/img/portfolio/alcools/Verveine.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
