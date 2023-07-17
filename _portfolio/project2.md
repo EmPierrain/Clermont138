@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: Nos Fromages
-  subtitle: Les meilleurs de France
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  subtitle: 
+  thumbnail: assets/img/portfolio/StNectaire.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
