@@ -27,7 +27,7 @@ Comment dissocier l'Auvergne de ses fabuleux fromages et des appélations AOP do
 
 ![Salers](assets/img/portfolio/fromages/StNectaire.jpg)
 
-### Fourme d'Armbert
+### Fourme d'Ambert
 
 ![Fourme d'Armbert](assets/img/portfolio/fromages/StNectaire.jpg)
 
