@@ -1,6 +1,6 @@
 ---
 title: Nos Fromages
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: A savourer sans retenue
 image: 
 alt: 
 
@@ -9,10 +9,32 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/fromages/StNectaire.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Comment dissocier l'Auvergne de ses fabuleux fromages et des appélations AOP dont nous sommes si fières. Mesdammes, Messieurs, Personnes Non-Binaire ou Agenre, voici pour vous notre sélection des meilleurs fromages Auvergnats
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+### Saint-Nectaire
 
+![Saint-Nectaire](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Cantal
+
+![Cantal](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Bleu d'Auvergne
+
+![Bleu d'Auvergne](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Salers
+
+![Salers](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Fourme d'Armbert
+
+![Fourme d'Armbert](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Laguiole
+
+![Laguiole](assets/img/portfolio/fromages/StNectaire.jpg)
+
+### Puy-de-Dôme
+
+![Puy-de-Dôme](assets/img/portfolio/fromages/StNectaire.jpg)

@@ -29,7 +29,7 @@ L'aligot est souvent accompagné de saucisse de l'Aubrac ou d'autres charcuterie
 
 ![Potée](assets/img/portfolio/specialites/Potee.jpg)
 
-Plat copieux et réconfortant, parfait pour les jours froids d'hiver. La potée auvergnate est un mélange savoureux de viandes, de légumes et de haricots blancs. Les ingrédients de base comprennent généralement du lard, des saucisses de porc, du jambon, des carottes, des pommes de terre et des choux. Le tout est cuit lentement dans un faitout, ce qui permet aux saveurs de se mélanger et de se développer. C'est un plat rustique et nourrissant qui incarne parfaitement la cuisine traditionnelle de l'Auvergne.
+Plat copieux et réconfortant, parfait pour les jours froids d'hiver. La potée auvergnate est un mélange savoureux de viandes et de légumes. Les ingrédients de base comprennent généralement du lard, des saucisses de porc, du jambon, des carottes, des pommes de terre et des choux. Le tout est cuit lentement dans un faitout, ce qui permet aux saveurs de se mélanger et de se développer. C'est un plat rustique et nourrissant qui incarne parfaitement la cuisine traditionnelle de l'Auvergne.
 
 ### La pascade
 
