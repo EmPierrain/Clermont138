@@ -1,6 +1,6 @@
 ---
 title: Nos cours d'eau
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Lyon vous ment
 image: 
 alt: 
 
@@ -9,4 +9,25 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/eaux/Aydat.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Tous les cours d'eau passent par Clermont, c'est pour ça qu'à Clermont, on vaut de l'or. L'Auvergne dispose d'énorméments de cours d'eau et de lacs, parfait pour se rafraîchir durant les périodes de chaleurs.
+
+### Allier
+
+### Lac Pavin
+
+### Loire
+
+### Lac Chambon
+
+### Dordogne
+
+### Lac d'Aydat
+
+### Cher
+
+### Lac de Guéry
+
+### Couze
+
+### Tarn
+

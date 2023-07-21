@@ -47,13 +47,13 @@ fr-FR:
 
   timeline:
     title: "L'histoire"
-    text: "Lorem ipsum timeline"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Chaine du Puy de Dôme "
-        year: "10.000 av. J.-C"
+        year: "10.800 av. J.-C"
         desc: "Volcan emblématique d'Auvergne, il fait partie de la chaine des Puys qui comprend plus de 80 volcans. S'élevant à 1465 mètres d'altitude, il est classé rentre au patrimoine mondiale de l'UNESCO depuis 2018"
         image: assets/img/timeline/puy.jpg
         alt:

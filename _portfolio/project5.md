@@ -1,6 +1,6 @@
 ---
 title: Nos montagnes
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: 
 alt: 
 

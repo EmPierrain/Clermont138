@@ -1,6 +1,6 @@
 ---
 title: Nos activités
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: 
 alt: 
 
