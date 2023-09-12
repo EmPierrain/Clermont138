@@ -107,7 +107,7 @@ fr-FR:
   team:
     title: "L'équipe"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "???"
@@ -210,11 +210,11 @@ fr-FR:
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://facebook.com
+      - url: https://www.facebook.com/people/Clermont-138/100093319981551/
         icon: "fab fa-facebook-f"
       - url: https://github.com/EmPierrain/Clermont138
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/clermont138/
         icon: "fab fa-instagram"
 
 
