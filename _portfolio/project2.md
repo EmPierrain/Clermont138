@@ -23,7 +23,7 @@ Il peut être dégusté seul, sur du pain frais, ou utilisé pour agrémenter de
 
 ### Cantal
 
-![Cantal](assets/img/portfolio/fromages/StNectaire.jpg)
+![Cantal](assets/img/portfolio/fromages/cantal.jpg)
 
 Fromage au lait de vache à pâte pressée non cuite. Il tient son nom du département du Cantal, où il est traditionnellement fabriqué depuis des siècles. C'est l'un des plus anciens fromages français encore produits aujourd'hui. Le Cantal est produit en plusieurs variétés, allant du jeune (Cantal Jeune) au plus affiné (Cantal Vieux), chacun ayant ses caractéristiques distinctes en termes de texture et de saveur.
 
@@ -31,7 +31,7 @@ La texture du Cantal varie en fonction de son âge. Le Cantal Jeune est généra
 
 ### Bleu d'Auvergne
 
-![Bleu d'Auvergne](assets/img/portfolio/fromages/StNectaire.jpg)
+![Bleu d'Auvergne](assets/img/portfolio/fromages/bleu.jpg)
 
 Le Bleu d'Auvergne est un fromage à pâte persillée. Ce fromage au lait de vache est célèbre pour sa texture crémeuse, sa saveur intense et ses marbrures de moisissures bleues caractéristiques. Il est fabriqué depuis le milieu du 19ème siècle, mais sa popularité s'est étendue bien au-delà des frontières de l'Auvergne et de la France.
 
@@ -41,7 +41,7 @@ Le Bleu d'Auvergne est souvent associé à d'autres fromages bleus comme le Roqu
 
 ### Salers
 
-![Salers](assets/img/portfolio/fromages/StNectaire.jpg)
+![Salers](assets/img/portfolio/fromages/salers.jpg)
 
 Fromage français à pâte pressée non cuite. Ce fromage tire son nom du plateau de Salers, où il est traditionnellement fabriqué depuis des siècles. Il est élaboré à partir de lait cru de vache Salers, une race bovine locale réputée pour la qualité de son lait. Le Salers est un fromage de montagne au goût riche et authentique, qui bénéficie d'une appellation d'origine contrôlée (AOC).
 
@@ -51,7 +51,7 @@ Le Salers est un fromage qui incarne la tradition fromagère d'Auvergne et qui e
 
 ### Fourme d'Ambert
 
-![Fourme d'Armbert](assets/img/portfolio/fromages/StNectaire.jpg)
+![Fourme d'Armbert](assets/img/portfolio/fromages/fourme.jpg)
 
 La Fourme d'Ambert est un fromage bleu à pâte persillée qui tient son nom de la ville d'Ambert, située dans la région d'Auvergne. Ce fromage a une histoire qui remonte à plus de 1 000 ans, ce qui en fait l'un des plus anciens fromages français toujours produits aujourd'hui. Il est fabriqué à partir de lait de vache, généralement de la race Montbéliarde ou Auvergnate, et est caractérisé par sa forme cylindrique et sa croûte naturelle, fine et légèrement fleurie.
 
