@@ -19,7 +19,9 @@ baseurl: "/Clermont138" # the subpath of your site, e.g. /blog
 
 title      : Clermont 138
 email      : clermont138@gmail.com #this is also the email contact forms will go to
-description: "++++[++++>---<]>.+[--->+<]>.-------.+++++++++++++.-----.++.-.++++++.[---->+<]>+++.[-->+++<]>+.++.+++++.[-->+<]>+++++."
+description: "Faut vraiment faire une description? C'est pas que j'ai la flemme... Mais j'ai plus de bière... \n
+Dans le doute, on mettra un petit easter egg et on verra qui comprendra. \n
+++++[++++>---<]>.+[--->+<]>.-------.+++++++++++++.-----.++.-.++++++.[---->+<]>+++.[-->+++<]>+.++.+++++.[-->+<]>+++++."
 author     : Emmanuel PIERRAIN
 logo:     #optional, defaults to site title
   path: assets/img/blason.png
